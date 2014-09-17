@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17/08/2014, 04:03:53 PM
+    Author     : Oscuro
+
+*/
+#formulario{
+     
+	margin-top: 60px;
+       
+}
+ 	#login{
+ 			border-radius: 10px;
+ 			margin: 0 auto;
+ 			border-color: #22231F;
+ 			background-color:#909090;
+			max-width: 330px;
+                     
+			padding: 15px;
+			
+			
+ 	}
+ 	#imglogo{
+            
+ 			margin: 0 auto;	
+		
+ 	}
+ 	#boton{
+		margin-top: 20px;
+ 	}
+        #clave{
+          margin-bottom: 10px;
+          margin-top: 10px;
+        }
+        
+
+
+
